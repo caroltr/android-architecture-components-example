@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AACExample.iml" filepath="$PROJECT_DIR$/AACExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aac-example.iml" filepath="$PROJECT_DIR$/aac-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
